@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Talevski</title>
+	</head>
+	<body>
+		<h1>Case: Talevski</h1>  
+    	Det här var vårt första riktiga uppdrag, vi skulle fotografera samt filma på Restaurangen Talevski i stadsparken.<br>
+        <img src="Talevski1.jpeg">
+        <img src="Talevski2.jpeg">
+        <img src="Talevski3.jpeg">
+        <img src="Talevski4.jpeg">
+		<h2><a href="hem.html">Tillbaka</a></h2>
+	</body>
+</html>
